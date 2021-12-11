@@ -1,0 +1,44 @@
+/*****İmg dizayn*****/
+.img{
+    text-align: center;
+}
+/*****arama çubuğunun ve buttonların dizaynı*****/
+.form{
+    text-align: center;
+    background-color: rgb(233, 229, 229);
+    margin:0px 100px 0px 100px;
+}
+/*****Genel Box yapısı*****/
+.box{
+    width: 400px;
+    height: 80px;
+    text-align: center;
+    margin-top: 2px;
+    margin-left: 100px;
+    float: left;
+    padding-top: 10px;
+}
+/*****Box 2 Dizaynı*****/
+.box2{
+    margin-left: 2px;
+    width: 300px;
+}
+/*****Box 3 Dizaynı*****/
+.box3{
+    margin-left: 2px;
+    width: 446px;
+}
+.clear{
+    clear:both;
+    text-align: center;
+}
+/******background colors******/
+.bg-green1{
+    background-color: rgb(184, 233, 184);
+}
+.bg-green2{
+    background-color: rgb(143, 219, 143);
+}
+.bg-green3{
+    background-color: rgb(118, 211, 118);
+}
