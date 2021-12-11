@@ -1,0 +1,1 @@
+Patika.dev içerisindeki Frontend&React patikasındaki 3.haftada yer alan Google eski sürümünün yapımı ödevi. Ödevde belirtildiği üzere linkler çalışmaktadır. 
